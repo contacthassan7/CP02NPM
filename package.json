@@ -1,0 +1,31 @@
+{
+  "name": "cp02npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contacthassan7/CP02NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contacthassan7/CP02NPM/issues"
+  },
+  "homepage": "https://github.com/contacthassan7/CP02NPM#readme",
+  "dependencies": {
+    "cowsay": "^1.2.0",
+    "express": "^4.17.2",
+    "handlebars": "^4.7.7",
+    "jest": "^27.4.7",
+    "jestr": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
